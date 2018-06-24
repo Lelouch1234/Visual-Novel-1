@@ -284,6 +284,7 @@ style quick_button_text:
 ## This screen is included in the main and game menus, and provides navigation
 ## to other menus, and to start the game.
 
+
 screen navigation():
 
     vbox:
@@ -295,7 +296,7 @@ screen navigation():
         spacing gui.navigation_spacing
 
         if main_menu:
-
+            
             textbutton _("Start") action Start()
 
         else:
