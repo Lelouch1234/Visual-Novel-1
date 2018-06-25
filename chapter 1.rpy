@@ -73,13 +73,13 @@ label done1:
     
     mc "Yeah, Im good."
     
-    "Maybe I should ask her name since she already ask my name"
+    "Maybe I should ask her name since she already ask my name."
     
     mc "Can I know your name?"
     
-    g "Oh, I forgot to intro myself. My Bad"
+    g "Oh, I forgot to intro myself. My Bad."
     
-    a "My name is [a] and we are classmates"
+    a "My name is [a] and we are classmates."
     
     "Eh?"
     
@@ -89,13 +89,13 @@ label done1:
     
     a "[mc]?"
     
-    mc "Oh, Im sorry. I forgot about you since I never talked with a girl"
+    mc "Oh, Im sorry. I forgot about you since I never talked with a girl."
     
     a "Ah I see. So this is the first time you talked with a girl like me?"
     
     mc "Yes *Blushing*"
     
-    a "Hahaha. You are so cute when you blushing"
+    a "Hahaha. You are so cute when you blushing."
     
     "She keep laugh at me for a few second and I stay quiet for awhile."
     
