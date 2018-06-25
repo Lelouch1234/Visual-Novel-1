@@ -98,7 +98,7 @@ label done1:
     
     a "Ah I see. So this is the first time you talked with a girl like me?"
     
-    mc "Yes *Blushing*"
+    mc "Yes.*Blushing*"
     
     a "Hahaha. You are so cute when you blushing."
     
