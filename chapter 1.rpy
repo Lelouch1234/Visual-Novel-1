@@ -44,6 +44,9 @@ label choice1:
     jump done1
 
 label choice2:
+    stop music fadeout 3.0
+    play music audio.t2
+    
     "I stand up in front of her and leave her as fast as I can."
             
     "That girl look me go away from her and look down."
@@ -57,6 +60,8 @@ label choice2:
     "BAD END"
     
     n "I never though this ending so fast at first chapter. Well, try to play again."
+    
+    stop music fadeout 3.0
     
     return
     
@@ -129,20 +134,4 @@ label done1:
     
     return
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
