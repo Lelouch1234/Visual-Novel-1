@@ -2,6 +2,7 @@ label ch1:
     stop music fadeout 4.0
     scene black
     play music audio.t5
+    $ config.rollback_enabled = False
     
     "..."
     
