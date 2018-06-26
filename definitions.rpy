@@ -6,6 +6,7 @@ default player = persistent.playername
 define a = Character('Alice')
 define g = Character('Girl')
 define n = Character('Note')
+define s = Character('Students')
 
 
 #music
