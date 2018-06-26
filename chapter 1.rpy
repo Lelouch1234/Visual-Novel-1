@@ -24,13 +24,13 @@ label ch1:
     
     "She ask my name??"
     menu:
-        "Either way, I decide that I'll..."
+        "Either way, I decide that I'll..." #choice 1
         
         "Tell her my name.":
             
             jump choice1
         
-        "Go away from her.":
+        "Go away from her.": #choice 2
             
             jump choice2
             
@@ -127,12 +127,43 @@ label done1:
     
     "I guess what happen tomorrow...."
     
-    "END OF THE DEMO"
+    a "Well the lunch is almost over. Should we head back to the class?"
+   
+    mc "Oh ok then. Let's go."
     
-    n " I still dont know what story I could make since Lost still not give his story yet. Well stay tuned."
+    "While we are on the way to the class, my head suddenly feels dizzy"
     
-    stop music fadeout 3.0
+    "Did I eat something wrong?"
+    
+    "My body getting numb. I can't feel my legs."
+    
+    a "[mc]? What's wrong with you??"
+    
+    "My visual is getting blurred..."
+    
+    "Then I suddenly vomit at hallways and lying down.."
+    
+    a "Someone help me!!!"
+    
+    "I close my eyes and my body its feeling hurt."
+    
+    a "Someone help me please!! HELP ME!!!"
+    
+    "Its hurt"
+    
+    s "What is happen to him??"
+    
+    a "I don't what happen."
+    
+    s "We need to get him to Nurse Room fast!!"
+    
+    s " Everyone pick him up."
+    
+    "I think I'm gonna pass out...."
+    
+    "..."
     
     return
     
-
+    
+    
