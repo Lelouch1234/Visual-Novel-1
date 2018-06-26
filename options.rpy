@@ -121,8 +121,6 @@ default preferences.text_cps = 30
 
 default preferences.afm_time = 15
 
-$ config.rollback_enabled = False
-
 
 ## Save directory ##############################################################
 ##
