@@ -24,9 +24,9 @@ label ch1:
     
     "She ask my name??"
     menu:
-        "Either way, I decide that I'll..." #choice 1
+        "Either way, I decide that I'll..." 
         
-        "Tell her my name.":
+        "Tell her my name.": #choiçe 1
             
             jump choice1
         
