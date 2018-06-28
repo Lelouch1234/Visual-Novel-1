@@ -71,19 +71,19 @@ label done1:
     
     mc "Y-yeah, me too."
     
-    "This is first time I talked with girl."
+    "This is first time I talking with girl."
     
-    "I cant bring myself to see her face."
+    "I can't bring myself to see her face."
     
     g "Are you ok [mc]?"
     
     mc "Yeah, Im good."
     
-    "Maybe I should ask her name since she already ask my name."
+    "Maybe I should ask her name since she already asked!j my name."
     
-    mc "Can I know your name?"
+    mc "Can I have your name?"
     
-    g "Oh, I forgot to intro myself. My Bad."
+    g "Oh, I forget to intro myself. My Bad."
     
     a "My name is [a] and we are classmates."
     
@@ -91,19 +91,19 @@ label done1:
     
     "Classmates?"
     
-    "And her name is Alice, Alice, Alice..... Ah I remember her. Her sit is beside of me."
+    "And her name is Alice, Alice, Alice..... Ah I remember her. Her desk is beside me."
     
     a "[mc]?"
     
-    mc "Oh, Im sorry. I forgot about you since I never talked with a girl."
+    mc "Oh, I'm sorry. I forgot about you since I never talked with the girl."
     
-    a "Ah I see. So this is the first time you talked with a girl like me?"
+    a "Oh I see. So this is the first time you talking with a girl like me?"
     
     mc "Yes.*Blushing*"
     
     a "Hahaha. You are so cute when you blushing."
     
-    "She keep laugh at me for a few second and I stay quiet for awhile."
+    "She keep laughing at me while I'm stuck and clueless."
     
     "Then situations getting awkward for me."
     
@@ -111,25 +111,25 @@ label done1:
     
     "This will change my daily life."
     
-    "My life with a girl..."
+    "My daily life with a girl..."
     
     "Eh, What the heck Im thinking?"
     
     a "[mc]?"
     
-    mc "Oh sorry. Im just thinking something."
+    mc "Oh sorry. I'm just thinking something."
     
     a "You still not answer my question yet."
     
-    mc "Ah sure."
+    mc "sure."
     
-    "This is the first day I make a friend with a girl."
+    mc "This is my first time I make a friend with a girl."
     
-    "I guess what happen tomorrow...."
+    "I guess what happen tomorroww...."
     
     a "Well the lunch is almost over. Should we head back to the class?"
    
-    mc "Oh ok then. Let's go."
+    mc "Ok then. Let's go."
     
     "While we are on the way to the class, my head suddenly feels dizzy"
     
@@ -149,7 +149,7 @@ label done1:
     
     a "Someone help me please!! HELP ME!!!"
     
-    "Its hurt"
+    "It's hurt"
     
     s "What is happen to him??"
     
@@ -181,9 +181,9 @@ label done1:
     
     a "Ah [mc] did you just wake up?"
     
-    mc "Yes I guess.."
+    mc "Yes maybe.."
     
-    a "Guess?? Are you feeling better?"
+    a "Are you sure??"
     
     mc "Ah never mind that. Yeah I'm good right now even my head just little dizzy for what happened to me."
     
