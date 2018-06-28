@@ -162,6 +162,82 @@ label done1:
     "I think I'm gonna pass out...."
     
     "..."
+    #the screen will disolve here to show mc pass out.
+    mc "Ugh..Where am I?"
+    
+    "I try to focus my sense and looking around"
+    
+    mc "Huh who is that?"
+    
+    "Wait is that Alice?"
+    
+    "To think she can be here with me. She must be alone.."
+    
+    "Eh wait...Why she want to friend with me? I thought she has many friends."
+    
+    "Ah never mind that. Now I want to know what happen to me.."
+    
+    a "Ah [mc] did you just wake up?"
+    
+    mc "Yes I guess.."
+    
+    a "Guess?? Are you feeling better?"
+    
+    mc "Ah never mind that. Yeah I'm good right now even my head just little dizzy for what happened to me."
+    
+    mc "Can I know what happen to me?"
+    
+    a "How should I say?"
+    
+    a "You were vomit at hallways and pass out"
+    
+    mc "because what?"
+    
+    a "Hmm...I think you eat poison food. I guess"
+    
+    "She smile at me"
+    
+    mc "Poison food? What did I eat?"
+    
+    a "I don't know. You remember what you eat?"
+    
+    mc "Hmm...I think I just eat sandwich omelette"
+    
+    a "Did you feel something when you eat sandwich?"
+    
+    mc "Hmm...I don't know what taste I have when eat that but I remember it feels like horrible."
+    
+    a "Then why you eat that?"
+    
+    mc "I just feel hungry suddenly"
+    
+    a "Ah I see"
+    
+    mc "Before that, Why are you here? How about class?"
+    
+    a "Thats secret and don't worry about class. I can handle it."
+    
+    mc "Ok then..."
+    
+    a "Do you feel better now? We should head to the class and report the situation."
+    
+    mc "Ah yes. Let's go then."
+    
+    "We go out from Nurse Room and go head to the class"
+    
+    mc "Have you meet doctor while I'm pass out?"
+    
+    a "No"
+    
+    mc "Eh? Really? Then who heal me?"
+    
+    a "No one"
+    
+    mc "Huh?"
+    
+    "But I feel something odd about this. This place is too queit."
+    
+    "When we open the door class,
     
     return
     
