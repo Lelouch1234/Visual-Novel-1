@@ -153,16 +153,18 @@ label done1:
     
     s "What is happen to him??"
     
-    a "I don't what happen."
+    a "I don't know what happen."
     
     s "We need to get him to Nurse Room fast!!"
     
-    s " Everyone pick him up."
+    s "Everyone pick him up."
     
     "I think I'm gonna pass out...."
     
     "..."
+    stop music fadeout 3.0
     #the screen will disolve here to show mc pass out.
+    #play music audio.
     mc "Ugh..Where am I?"
     
     "I try to focus my sense and looking around"
@@ -237,7 +239,11 @@ label done1:
     
     "But I feel something odd about this. This place is too queit."
     
-    "When we open the door class,
+    "When we open the door class, "
+    
+    n "This is the end of the first chapter. Soon we will put a new chapter in this Visual Novel. Thanks for playing."
+      
+    stop music fadeout 3.0 
     
     return
     
