@@ -241,6 +241,8 @@ label done1:
     
     "When we open the door class, "
     
+    "TO BE CONTINUE..."
+    
     n "This is the end of the first chapter. Soon we will put a new chapter in this Visual Novel. Thanks for playing."
       
     stop music fadeout 3.0 
