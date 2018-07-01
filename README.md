@@ -20,3 +20,5 @@ So far I can tell you :
 
 
 I think thats only I can tell but dont worry I will make a news ASAP..
+
+ ### [Click here to join my discord server!](https://discord.gg/UTK7ATS)
