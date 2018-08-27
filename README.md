@@ -6,17 +6,33 @@ Welcome to Visual Novel Development Web.
 
 To tell you guys, I just do this for hobby but sometimes I must take serious in this project. I don't what story I should make because I work alone. I'm looking for someone who can writer for story, make a music and create the character images.
 
-# About the character
+# About character
+MC  - (Given name) (Family name)
+    - Black hair and normal build
+    - Wear fake glass for sake of act cool
+    
+Shiro Takahane  - White-haired 
+                - cute loli
+                -Petite body
+                -wear cat ear
 
-I not have idea about this yet but we have set for 4 character for this VN. I still not have any news about character but I will post here as soon as possible.
+Amani Yuuki   -famous female student
+              -teenage feminine body 
+              -light chocolate short hair.
+              -tsundere
+
+Ellyn Thompson   -Blonde haired ojousama
+                 -same level body with Rina
+                 -obsessive (Yandere)
+
+Rina    -Black straight long hair
+        -mature body 
+        -secretly bro-con (Don’t ask)
+
 
 # The progress about this VN
 
-So far I can tell you :
-
-- Finish chapter 1
-- Put the images background at main menu.(The images is not related to the story)
-- New music background
+So far I can tell you, we still no start yet
 
 
 I think thats only I can tell but dont worry I will make a news ASAP..
