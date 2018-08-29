@@ -285,12 +285,12 @@ label choice13:
     
     jump done6
 
-label choice13:
+label choice14:
     s "*Blush* Hmm, don't treat me like a kitty! *Still happy being pat*"
     
     jump done6
     
-label choice13:
+label choice15:
     s "*Blush* Umm...No,Rina-neesan gonna get angry."
     
     jump done6
