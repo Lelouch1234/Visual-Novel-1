@@ -36,14 +36,14 @@ label ch1:
         
         "Your cute Otouto Main Character!": #choice 1
             
-            jump choice1
+            jump retard1
         
         "Whose IDEA PUT THAT OTHER CHOICE.": #choice 2
             
-            jump choice2
+            jump notretard1
             
             
-label choice1:
+label retard1:
     "I will rely on my beatiful Rina-nee!"
     
     "And this visual novel will become about me with her!"
@@ -52,7 +52,7 @@ label choice1:
 
     jump done1
 
-label choice2:
+label notretard1:
     
     jump done1
     
@@ -319,7 +319,7 @@ label choice16:
 label choice17:
     mc "I believe Shiro-chan is exemplary student. Maybe you forgot something?"
     
-    jump done8
+    jump done10
     
 label choice18:
     s " Rawr~ *innocent smile radiating*"
@@ -337,7 +337,7 @@ label done9:
     
     jump storyline1
     
-label done8:
+label done10:
     
      "After arrived there, I stared at blue sky."
      
@@ -347,8 +347,171 @@ label storyline1:
     "I went to classroom and sit at Main character's usual seat."
     
     "Back on the right side next to window."
-   
-    "Noobegg is here as author! Thanks for play this trial!"
+    
+    mc "Hah~"
+    
+    mc "This is boring..."
+    
+    g "Why you sighing? It's still early in the morning."
+    
+    mc "I'm bored, i want to do something!~"
+    
+    g "Well, suit yourself."
+    
+    mc "Anyway... Amani."
+    
+    a "What is it?"
+    
+    mc "Is there any homework?"
+    
+    a "nope."
+    
+    ""
+    "Recess"
+    
+    "Nothing can beat..."
+    
+    "Fried noodle bread!"
+    
+    "I went to canteen to buy the food."
+    
+    "But... If i have to say."
+    
+    menu:
+        "This quite good food.":
+        
+        jump full1
+        
+        "I want yakiniku Odon.":
+        jump full1
+        
+        "Just milk is good enough.":
+        jump full1
+    
+label fullalready1:
+    "I'm full anyway. I'll buy that thing later."
+    
+    #bell ring
+    
+    "Welp, the next class started now."
+    
+    "I ran with full strength."
+    
+    mc "Welp, teacher's gonna get angry!!"
+    
+    #Insert bell ring
+    
+    "The class ended."
+    
+    "As I went out with a sigh."
+    
+    "I wonder what should I do."
+    
+    menu:
+        "Dojo":
+        
+        jump dojo1
+        
+        "Home Sweet Home":
+        
+        jump home1
+        
+label dojo1:
+    "I went to dojo."
+    
+    #music
+
+    #scene
+    
+    " As i went inside dojo, which is near to my house I met Amani and Rina-nee inside with an old man."
+    
+    r "Hah!"
+    
+    "Rina's right fist moved forward fast."
+    
+    r "Hah!"
+    
+    "Rina's left fist moved forward fast."
+    
+    "Yep,my sister is good at almost everything. Except she doesn't have boy friend."
+    
+    "Wonder why..."
+    
+    a "[mc]! You're late today!"
+    
+    mc "Ah, sorry. I have some other things to do."
+    
+    r " *laugh* Must be your homework, right?"
+    
+    mc "I..."
+    
+    menu:
+        "Welp, she's right."
+        
+        jump homeworknotdone1
+        
+        "I finished it."
+        
+        jump homeworkdone1
+        
+label homeworknotdone1:
+    mc "I forgot to do..."
+    
+    r "Do you want me to help~ you?~"
+    
+    mc "Umm..."
+    
+    d "It's okay, you sister wanted to do it right?~"
+    
+    "What the f..."
+    
+    d "It's okay you're mature boy after all. huehuehue."
+    
+    "Why the laugh is so lame?"
+    
+    an "Don't remember, she is your only sister!"
+    
+    "You mean... st-"
+    
+    d "Stepsister, right. He can marry her, you know?"
+    
+    "Hmm..."
+    
+    menu:
+        "Listen to devil of lust."
+        
+        jump devil1
+        
+        "Listen to angel of anime (Not sure what the hell is that mean whatever it is)"
+        
+        jump angelofwhateverisit1
+        
+label devil1:
+    
+    "Well..."
+    
+    "BAM!"
+    "*fly few feet in air before hit the wooden tiles with a thud."
+    
+    "18 fatality"
+    
+    "Make sure to not think this novel as hentai all the time"
+    
+    "Noobegg is here as author! In your face!!! Pervert!!!"
     
     stop music fadeout 3.0
     return
+    
+label angelofwhateverisit1:
+    "I know she wanted to do something but..."
+    
+
+    stop music fadeout 3.0
+    return
+                                                                                                     
+    
+        
+                                                           
+                                                           
+               
+               
