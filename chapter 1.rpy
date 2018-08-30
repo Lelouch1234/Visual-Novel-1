@@ -457,7 +457,7 @@ label dojo1:
     
     "Why the laugh is so lame?"
     
-    an "Don't remember, she is your only sister!"
+    an "Don't forget, she is your only sister!"
     
     "You mean... st-"
     
