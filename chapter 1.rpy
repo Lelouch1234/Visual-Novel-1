@@ -508,7 +508,7 @@ label angelofwhateverisit1:
     
     r "okay... *Dejected*"
     
-    O "Oh, you came late today. Down to 150."
+    o "Oh, you came late today. Down to 150."
     
     mc "NANI!?"
     
@@ -535,9 +535,9 @@ label angelofwhateverisit1:
     o "*hug his own leg at some corner* Sorry."
     
     "After..." 
-    "(Visualist: JUST STOP SKIP DAMMIT!) (K!) (THE *&^*&&^%%$^%^)"
+    "(Visualist: JUST STOP SKIP DAMMIT!) (K!) (THE fish)"
     "(After a long time, the author become retard and do dab all the anime he watched all the time. The end)"
-    " After a long ttme."
+    " After a long time."
     
     mc "Hmm... What happen?"
     
@@ -557,7 +557,7 @@ label angelofwhateverisit1:
     
     r "Will you be okay with school uniform?"
     
-    mc "Of course. I don't that uniform."
+    mc "Of course. I don't need to wear that uniform."
     
     "I tied out the shirt with a smirk."
     
