@@ -265,7 +265,7 @@ label done4:
     
     "Yep, a loli whose age I will not tell your guys."
     
-    "This girl is second year of middle school."
+    "This girl is second years of middle school."
     
     menu:
         "good morning,Shiro-chan.": #choice 13
@@ -346,7 +346,7 @@ label done10:
 label storyline1:
     "I went to classroom and sit at Main character's usual seat."
     
-    "Back on the right side next to window."
+    "Back on the right side next to the window."
     
     mc "Hah~"
     
@@ -380,13 +380,13 @@ label storyline1:
     menu:
         "This quite good food.":
         
-        jump full1
+            jump fullalready1
         
         "I want yakiniku Odon.":
-        jump full1
+            jump fullalready1
         
         "Just milk is good enough.":
-        jump full1
+            jump fullalready1
     
 label fullalready1:
     "I'm full anyway. I'll buy that thing later."
@@ -410,11 +410,7 @@ label fullalready1:
     menu:
         "Dojo":
         
-        jump dojo1
-        
-        "Home Sweet Home":
-        
-        jump home1
+            jump dojo1
         
 label dojo1:
     "I went to dojo."
@@ -433,7 +429,7 @@ label dojo1:
     
     "Rina's left fist moved forward fast."
     
-    "Yep,my sister is good at almost everything. Except she doesn't have boy friend."
+    "Yep,my sister is good at almost everything. Except she doesn't have boyfriend."
     
     "Wonder why..."
     
@@ -445,16 +441,8 @@ label dojo1:
     
     mc "I..."
     
-    menu:
-        "Welp, she's right."
+    "Welp, she's right."
         
-        jump homeworknotdone1
-        
-        "I finished it."
-        
-        jump homeworkdone1
-        
-label homeworknotdone1:
     mc "I forgot to do..."
     
     r "Do you want me to help~ you?~"
@@ -478,26 +466,35 @@ label homeworknotdone1:
     "Hmm..."
     
     menu:
-        "Listen to devil of lust."
+        "Listen to devil of lust.":
         
-        jump devil1
+            jump devil1
         
-        "Listen to angel of anime (Not sure what the hell is that mean whatever it is)"
+        "Listen to angel of anime (Not sure what the hell is that mean whatever it is)":
         
-        jump angelofwhateverisit1
+            jump angelofwhateverisit1
         
 label devil1:
     
     "Well..."
     
+    "A strong throw by an expert"
+    
     "BAM!"
+    
     "*fly few feet in air before hit the wooden tiles with a thud."
     
-    "18 fatality"
+    "18+ fatality"
     
     "Make sure to not think this novel as hentai all the time"
     
     "Noobegg is here as author! In your face!!! Pervert!!!"
+    
+    r "Are you sure he's fine?"
+    
+    a "well,i'm not sure. He's still breathing... *Poke* *Poke*"
+    
+    o "Well, pervert thought can go die for all I care."
     
     stop music fadeout 3.0
     return
@@ -505,7 +502,161 @@ label devil1:
 label angelofwhateverisit1:
     "I know she wanted to do something but..."
     
-
+    mc "I will be fine! I mean, even Amani can help me."
+   
+    r "oh."
+    
+    r "okay... *Dejected*"
+    
+    O "Oh, you came late today. Down to 150."
+    
+    mc "NANI!?"
+    
+    o "Just do it!"
+    
+    "at some wall."
+    
+    s "according to keikaku.Fufufu~ *innocent loli aura released*"
+    
+    "After quite while..."
+    
+    mc "149...... 15-.... 150.... *fall to ground."
+    
+    s "Jii-chan![mc] not moving!"
+    
+    o "He will be fine! Maybe..."
+    
+    s "Uuuu~~ *Started tearing up*"
+    
+    o "*extreme critical hit received*[s],Granpa so sorry! *hug [s]*"
+    
+    s "I Hate you!"
+    
+    o "*hug his own leg at some corner* Sorry."
+    
+    "After..." 
+    "(Visualist: JUST STOP SKIP DAMMIT!) (K!) (THE *&^*&&^%%$^%^)"
+    "(After a long time, the author become retard and do dab all the anime he watched all the time. The end)"
+    " After a long ttme."
+    
+    mc "Hmm... What happen?"
+    
+    s "Hmm? Oh you're tired... So... *Fidget* *fidget*"
+    
+    mc "Hmm.... Ah the pillow lap is good though."
+    
+    s "*Blush* Is i-it good?"
+    
+    mc "Yup."
+    
+    "I stood up and started my practice."
+    
+    o " Go spar with [r]."
+    
+    mc "alright."
+    
+    r "Will you be okay with school uniform?"
+    
+    mc "Of course. I don't that uniform."
+    
+    "I tied out the shirt with a smirk."
+    
+    "Old man Kukichi watched us with anticipation."
+    
+    "I moved to middle grounds facing Rina."
+    
+    mc "Rina-nee, you move first."
+    
+    r "Well,don't regret it!"
+    
+    "*Fush*"
+    
+    "fast!"
+    
+    "A right fast jab appeared."
+    
+    "I moved my head to side avoid the jab."
+        
+    "Rina swang left hand aiming [mc]'s stomach"
+    
+    "I moved my hand stop her swing and uppercut with my other hand targeting Rina-nee."
+    
+    "Rina jumped back while his right hand block the uppercut."
+    
+    r "You're still like demon as usual."
+    
+    mc "Is that praise?"
+     
+    "Rina run toward me before lowered her body before tackle my leg down."
+     
+    "I jumped in the air but Rina swang her hand straight to my face."
+     
+    "I moved my head few breaths earlier than her before land on ground."
+     
+    "Instinctly hold her karate's uniform and throw her in air with a perfect fluid movement."
+     
+    "Rina flew in air before land with a thud."
+     
+    r "*rub head* Ouch! That's hurt!"
+     
+    mc "A moment hesistation equal a moment live fly away."
+     
+    o "Hahahaha! As expected of [mc]! I have great expectation for your future in martial arts."
+     
+    mc "Of course!. *ready both hands on side and breath in and exhale lightly*"
+    
+    a "Splendid as always,[mc]!"
+     
+    s "Yeah!"
+     
+    a "Seeing Rina couldn't contend with you meaning she is not perfect as she seems to be."
+     
+    r "Rude!"
+     
+    "They looked each other and laugh."
+     
+    "I laughed with them."
+     
+     #Scene unknown
+     
+    "I return home sluggishly."
+     
+    r "Are you okay?"
+     
+    mc "Heh, just tired though."
+     
+    r "Please take care of your health okay?"
+     
+    mc "Of course. *smile*"
+     
+    "I went inside my room."
+     
+    "Suddenly, my phone ring."
+     
+    "'Why you don't video call me? Hmph!'"
+     
+    mc "Ah..."
+     
+    "I replied and went to bath after that."
+    
+    "I replied to Ellyn, my internet bestfriend."
+     
+    mc "'Sorry, Ellyn. It's quite busy day.'"
+    
+    e "'It's fine.'"
+    
+    e "'I know you had busy day. Good night,[mc].'"
+    
+    "I closed my phone and went to sleep."
+    
+    "it's busy day..."
+    
+    "..."
+    
+    "I'm Noobegg. New author for this story and new member of group."
+    
+    "Please take care of me."
+    
     stop music fadeout 3.0
     return
                                                                                                      
