@@ -158,7 +158,7 @@ label choice7:
     jump done5
     
 label choice8:
-    S "Eh~, [mc] you really did it?"
+    s "Eh~, [mc] you really did it?"
     
     mc "Not yet, but I will!"
     
