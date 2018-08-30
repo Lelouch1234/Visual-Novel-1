@@ -3,11 +3,16 @@ default persistent.playername = ""
 default player = persistent.playername
 
 #character
-define a = Character('Alice')
-define g = Character('Girl')
-define n = Character('Note')
-define s = Character('Students')
-
+define m = Character('Mom')
+define s = Character('Shiro')
+define a = Character('Amani')
+define e = Character('Ellyn')
+define r = Character('Rina')
+define g = Character('girl')
+define an = Character('Angel')
+define d = Character('Devil')
+define o = Character('Old Man Kukichi')
+define rg = Character('Random Girl')
 
 #music
 
