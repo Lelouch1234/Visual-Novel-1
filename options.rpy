@@ -36,7 +36,7 @@ define gui.about = _("")
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "SimpleVisualovel"
+define build.name = "SimpleVisualNovel"
 
 
 ## Sounds and music ############################################################
@@ -60,7 +60,7 @@ define config.has_voice = False
 ## the player is at the main menu. This file will continue playing into the
 ## game, until it is stopped or another file is played.
 
-define config.main_menu_music = "audio/In The End You Were There.mp3"
+define config.main_menu_music = "audio/audio.mp3"
 
 
 ## Transitions #################################################################
@@ -77,7 +77,7 @@ define config.exit_transition = Dissolve(.2)
 
 ## A transition that is used after a game has been loaded.
 
-define config.after_load_transition = Dissolve(.3)
+define config.after_load_transition = Dissolve(.5)
 
 
 ## Used when entering the main menu after the game has ended.
@@ -136,7 +136,7 @@ default preferences.afm_time = 15
 ## This generally should not be changed, and if it is, should always be a
 ## literal string, not an expression.
 
-define config.save_directory = "SimpleVisualovel-1529750316"
+define config.save_directory = "SimpleVisualNovel-1529750316"
 
 
 ## Icon ########################################################################
