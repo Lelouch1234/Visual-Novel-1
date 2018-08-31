@@ -15,24 +15,24 @@ MC
 Shiro Takahane 
 - White-haired 
 - cute loli
--Petite body
--wear cat ear
+- Petite body
+- wear cat ear
 
 Amani Yuuki   
--famous female student
--teenage feminine body 
--light chocolate short hair.
--tsundere
+- famous female student
+- teenage feminine body 
+- light chocolate short hair.
+- tsundere
 
 Ellyn Thompson   
--Blonde haired ojousama
--same level body with Rina
--obsessive (Yandere)
+- Blonde haired ojousama
+- same level body with Rina
+- obsessive (Yandere)
 
 Rina    
--Black straight long hair
--mature body 
--secretly bro-con (Don’t ask)
+- Black straight long hair
+- mature body 
+- secretly bro-con (Don’t ask)
 
 
 # The progress about this VN
