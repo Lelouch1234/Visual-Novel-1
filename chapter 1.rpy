@@ -7,6 +7,8 @@ label ch1:
     $ mc = renpy.input("Please insert your name")
     
     $ mc = mc.strip()
+
+    #scene mc bedroom
     
     "I woke up with a yawn"
     
@@ -23,6 +25,8 @@ label ch1:
     "I stared at my room, looks like my collection of anime and vocaloids is good enough for bragging."
     
     "I shook my head before combing my hair."
+
+    #scene dinning room (mc home)
     
     "I went downstairs. In the dinning room there's a girl with long straight black hair, with a dignified aura and a mature body."
     
@@ -76,6 +80,8 @@ label route2:
   
 label route3:
     
+    #scene street
+
     "I went out after drinking a good cup of black coffee."
     
     "I will need it after all the things I did last night."
@@ -83,8 +89,6 @@ label route3:
     "Anime, MMO, DOTA, LOL, MONSTER HUNTER!"
     
     "That black coffee will definitely come in handy."
-    
-    #scene unknown
     
     "As I went out i saw a petite body with white hair. Her cute face was staring right at me."
     
@@ -156,6 +160,9 @@ label sub18:
     jump route6
     
 label route6:
+
+    #scene school
+
     "As I went to school, Shiro hugged my right arm happily."
     
     "I pet her head softly"
@@ -168,11 +175,16 @@ label route6:
     
 label route7:
     
+    #scene blue sky
+
     "After arriving there, I stared up at the blue sky."
      
     jump route8
 
 label route8:
+
+    #scene classroom
+
     "I went to the classroom and sat at the Main character's usual seat."
     
     "At the Back of the classroom on the right side next to the window."
@@ -194,6 +206,8 @@ label route8:
     mc "Is there any homework?"
     
     a "Nope."
+
+    #scene cafeteria
     
     "..."
 
@@ -226,6 +240,10 @@ label route9:
     #bell ring
     
     "Welp, the next class started now."
+
+    #scene hallway
+
+    #music
     
     "I ran with full strength."
     
@@ -241,6 +259,8 @@ label route9:
 
     "We rushed inside to the class"
 
+    #scene classroom
+
     "Then the teacher went in"
     
     mc "Life secured"
@@ -248,7 +268,9 @@ label route9:
     "Terrorists Win... Wait this is not a game."
 
     "Well never mind that. I should focus on the class right now"
+
     #Insert bell ring
+    
     "The class ended."
     
     "I went out with a sigh."
@@ -261,7 +283,7 @@ label route9:
     
     #music
 
-    #scene
+    #scene dojo (school)
     
     "As I went inside the dojo, which is nearby my house, I met Amani and Rina-nee inside with an old man."
     
@@ -332,6 +354,8 @@ label route11:
     mc "NANI!?"
     
     o "Just do it!"
+
+    #scene behind dojo (school)
     
     "Behind the Dojo."
     
@@ -340,6 +364,8 @@ label route11:
     "After quite a while..."
     
     mc "149...... 15-.... 150.... *falls to the ground.*"
+
+    #scene blank
     
     s "Jii-chan![mc] isn't moving!"
     
@@ -352,12 +378,18 @@ label route11:
     s "I Hate you!"
     
     o "*Hugs his own legs at some corner* Sorry."
+
+    stop music fadeout 5.0
     
     "After..." 
     "(Visualist: JUST STOP SKIPPING DAMMIT!) (K!) (THE FISH)"
     "(After a long time, the author became a retard and proceeded to dab while watching anime all day. The end)"
     
     "After a while I passed out."
+
+    play music audio.t5
+
+    #scene dojo (school)
     
     mc "Hmm... What happened?"
     
@@ -378,6 +410,8 @@ label route11:
     r "Will you be okay with your school uniform?"
     
     mc "Of course. I will be fine with the uniform."
+
+    #music 
     
     "I buttoned down the shirt with a smirk."
     
@@ -437,9 +471,9 @@ label route11:
      
     "I laughed with them."
      
-    #Scene unknown
-     
     "I return home sluggishly."
+
+    #scene home (inside)
      
     r "Are you okay?"
      
@@ -450,6 +484,8 @@ label route11:
     mc "Of course. *smile*"
      
     "I went inside my room."
+
+    #scene bedroom (mc)
      
     "Suddenly, my phone rings."
      
@@ -470,6 +506,8 @@ label route11:
     "I closed my phone and went to sleep."
     
     "It was a busy day..."
+
+    #scene blank
     
     "..."
     

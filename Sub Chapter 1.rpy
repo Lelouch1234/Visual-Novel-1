@@ -45,14 +45,14 @@ label sub4:
     "YES, I’m with a perfect student!"
     
     "Who can face me!?"
+
+    #scene street
     
     "I went out after drinking a cup of good, black coffee."
     
     "I will need it after all the things I did last night."
     
     "Anime, MMO, DOTA, LOL, MONSTER HUNTER!"
-    
-    #scene
     
     "As I went out I saw a petite body with white hair and a cute face staring at me."
     
@@ -151,6 +151,9 @@ label sub11:
     jump sub12
     
 label sub12:
+    
+    #scene school
+
     "Rina-nee, Shiro and me went to school."
     
     "We parted ways after a long happy chat with each other."
@@ -158,6 +161,9 @@ label sub12:
     jump route8
 
 label sub13:
+
+    #scene school
+
     s "Ah! Sorry [mc]-senpai! I need to give a speech at assembly for freshmen today!"
     
     mc "It's fine."
@@ -175,6 +181,8 @@ label bad1:
     "Well..."
     
     "A strong throw by an expert"
+
+    #scene blank
 
     stop music fadeout 5.0
     
