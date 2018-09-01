@@ -37,8 +37,8 @@ Rina
 
 # The progress about this VN
 
-So far I can tell you, we have finished the first chapter but working on music and background picture as soon as possible.
+- finishing chapter 1 (proofread version)
 
-I think thats only I can tell but dont worry I will make a news ASAP..
+I think that's the only I can tell but dont worry I will make a news ASAP..
 
  ### [Click here to join my discord server!](https://discord.gg/cmTF5Qk)
