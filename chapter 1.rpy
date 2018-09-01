@@ -62,7 +62,7 @@ label route1:
             
             jump sub3 
         
-         "Will you be busy?": # 4
+        "Will you be busy?": # 4
             
             jump route2
 label route2:
@@ -107,7 +107,7 @@ label route3:
             
         "You're cute, be my Imouto!": #choice 15
             
-            jump sub15
+            jump sub16
 
 label sub14:
     s "*Smiles* Morning [mc]-senpai!"
@@ -119,7 +119,7 @@ label sub15:
     
     jump route4
     
-label sub15:
+label sub16:
     s "*Blushes* Umm...No, Rina-neesan is gonna get angry if I do."
     
     jump route4
@@ -130,7 +130,7 @@ label route4:
     menu:
         "Let's go!": 
             
-            jump sub16
+            jump sub17
         
         "Is that okay?": 
             
@@ -138,9 +138,9 @@ label route4:
         
         "Let's go-nya~": 
             
-            jump sub17
+            jump sub18
         
-label sub16:
+label sub17:
    s "Let's go!"
    
    jump route6
@@ -150,7 +150,7 @@ label route5:
     
     jump route7
     
-label sub17:
+label sub18:
     s " Rawr~ *Innocent smile radiating*"
     
     jump route6
