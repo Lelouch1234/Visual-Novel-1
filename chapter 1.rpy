@@ -14,7 +14,7 @@ label ch1:
      
     "Alone... I wonder when my waifu will be alive"
     
-    m "[mc], I made your breakfast."
+    m "[mc], I made you breakfast."
     
     mc "Okay, Mom."
     
@@ -24,21 +24,21 @@ label ch1:
     
     "I shook my head before combing my hair."
     
-    "I went down. In the dinner room there is a girl with long straight black hair, with dignified aura and a mature body."
+    "I went downstairs. In the dinning room there's a girl with long straight black hair, with a dignified aura and a mature body."
     
     r "[mc]!"
     
-    "She is my step-sister who is well-known, blablabla prodigy. Blablabla your beautiful student council president."
+    "She is my step-sister who is popular, blahblahblah a prodigy, and blahblahblah our beautiful student council president."
      
     "I wonder what I should become..."
     menu:
-        "Either way, I decide that I'll..."
+        "Either way, I think that I'll be..."
         
         "Your cute Otouto Main Character!": # 1
             
             jump sub1
         
-        "Whose IDEA PUT THAT OTHER CHOICE.": # 2
+        "Who PUT THAT OTHER CHOICE!": # 2
             
             jump route1
   
@@ -51,7 +51,7 @@ label route1:
 
     r  "You’re really early today."
     
-    "*Give a plate of fried rice*"
+    "*I take the plate of fried rice she offers*"
     
     mc "It's the first day after all."
   
@@ -62,13 +62,13 @@ label route1:
             
             jump sub3 
         
-        "Will you be busy?": # 4
+         "Will you be busy?": # 4
             
             jump route2
 label route2:
-    r "Yeah, I forgot. Sorry [mc], I'll be busy today since I have become the student council president."
+    r "Yeah, I forgot. Sorry [mc], I'l be busy today, I've had a lot to after becoming the student council president."
     
-    mc "Oh, okay. Guess, gotta go."
+    mc "Oh, okay. Guess I will get going now."
    
     r "Alright, see you later [mc]."
     
@@ -76,25 +76,25 @@ label route2:
   
 label route3:
     
-    "I went out after drinking a cup of good black coffee."
+    "I went out after drinking a good cup of black coffee."
     
     "I will need it after all the things I did last night."
     
     "Anime, MMO, DOTA, LOL, MONSTER HUNTER!"
     
-    "I will surely need that black coffee."
+    "That black coffee will definitely come in handy."
     
     #scene unknown
     
-    "As I went out to see a petite body with white hair and cute face staring at me."
+    "As I went out i saw a petite body with white hair. Her cute face was staring right at me."
     
-    "She waved her small cute hand at me with innocent smile."
+    "She waved her small and fragile hand at me with a innocent smile to follow."
     
     s "Good morning, [mc]-nya~"
     
-    "Yep, a loli whose age I will not tell you guys."
+    "Yep, a loli whose age I am not going to tell you guys."
     
-    "This girl is second years of middle school."
+    "This girl is in her second year of middle school."
     
     menu:
         "Good morning, Shiro-chan.": #choice 13
@@ -107,20 +107,20 @@ label route3:
             
         "You're cute, be my Imouto!": #choice 15
             
-            jump sub16
+            jump sub15
 
 label sub14:
-    s "*Smile* Morning [mc]-senpai!"
+    s "*Smiles* Morning [mc]-senpai!"
     
     jump route4
 
 label sub15:
-    s "*Blush* Hmm, don't treat me like a kitty! *Still happy being pat*"
+    s "*Blushes* Hmm, don't treat me like a kitty! *She is still happy to be petted*"
     
     jump route4
     
-label sub16:
-    s "*Blush* Umm...No, Rina-neesan gonna get angry."
+label sub15:
+    s "*Blushes* Umm...No, Rina-neesan is gonna get angry if I do."
     
     jump route4
     
@@ -130,27 +130,27 @@ label route4:
     menu:
         "Let's go!": 
             
-            jump sub17
+            jump sub16
         
-        "Is it okay?": 
+        "Is that okay?": 
             
             jump route5
         
         "Let's go-nya~": 
             
-            jump sub18
+            jump sub17
         
-label sub17:
+label sub16:
    s "Let's go!"
    
    jump route6
     
 label route5:
-    mc "I believe Shiro-chan is an exemplary student. Maybe you forgot something?"
+    mc "I believe Shiro-chan is an exemplary student. Maybe I am forgetting something?"
     
     jump route7
     
-label sub18:
+label sub17:
     s " Rawr~ *Innocent smile radiating*"
     
     jump route6
@@ -160,28 +160,28 @@ label route6:
     
     "I pet her head softly"
     
-    s "*Rub her head at [mc]'s arm affectionately"
+    s "*Rubs her head at [mc]'s arm affectionately*"
     
-    "After arrived there, Shiro and me parted away."
+    "After arriving there, Shiro and me parted ways."
     
     jump route8
     
 label route7:
     
-    "After arriving there, I stared at the blue sky."
+    "After arriving there, I stared up at the blue sky."
      
     jump route8
 
 label route8:
-    "I went to the classroom and sat at Main character's usual seat."
+    "I went to the classroom and sat at the Main character's usual seat."
     
-    "Back on the right side next to the window."
+    "At the Back of the classroom on the right side next to the window."
     
     mc "Hah~"
     
     mc "This is boring..."
     
-    g "Why you sighing? It's still early in the morning."
+    g "Why you sighing? The day just started."
     
     mc "I'm bored, I want to do something!~"
     
@@ -203,16 +203,16 @@ label route8:
     
     "Fried noodle bread!"
     
-    "I went to Cafeteria to buy the food."
+    "I went to Cafeteria to go get some."
     
     "But... If I have to say."
     
     menu:
-        "This is quite good food.":
+        "This is some pretty good food.":
         
             jump route9
         
-        "I want Yakiniku Odon.":
+        "I'd rather have Yakiniku Odon.":
 
             jump route9
         
@@ -221,7 +221,7 @@ label route8:
             jump route9
     
 label route9:
-    "I'm full anyway. I'll buy that thing later."
+    "I'm full right now though, so I'll get some later."
     
     #bell ring
     
@@ -229,11 +229,11 @@ label route9:
     
     "I ran with full strength."
     
-    mc "Welp, teacher's gonna get angry!!"
+    mc "Geez, teacher's gonna get angry!!"
 
-    a "Hurry [mc]!! Teacher is on the way to the class."
+    a "Hurry [mc]!! Teacher is on the way to class."
 
-    "Teacher is on the way with stern face"
+    c "Teacher is on the way with a stern face"
 
     mc "Crap! Go go go!!"   
 
@@ -245,25 +245,25 @@ label route9:
     
     mc "Life secured"
 
-    "Terrorist Win... Wait this is not a game."
+    "Terrorists Win... Wait this is not a game."
 
-    "Well never mind that. I should focus to the class right now"
+    "Well never mind that. I should focus on the class right now"
     #Insert bell ring
     "The class ended."
     
-    "As I went out with a sigh."
+    "I went out with a sigh."
     
     "I wonder what I should do."
     
-    "Maybe I should visit to dojo."
+    "Maybe I should visit the dojo."
 
-    "I went to dojo."
+    "I left to the dojo."
     
     #music
 
     #scene
     
-    " As I went inside the dojo, which is near to my house I met Amani and Rina-nee inside with an old man."
+    "As I went inside the dojo, which is nearby my house, I met Amani and Rina-nee inside with an old man."
     
     r "Hah!"
     
@@ -281,27 +281,27 @@ label route9:
     
     mc "Ah, sorry. I had some other things to do."
     
-    r "*laugh* Must be your homework, right?"
+    r "*laughs* Must be your homework, right?"
     
     mc "I..."
     
     "Welp, she's right."
         
-    mc "I forgot to do..."
+    mc "I did forget to do it..."
     
     r "Do you want me to help you?~"
     
     mc "Umm..."
     
-    d "It's okay, your sister wanted to do it right?~"
+    d "It's okay, your sister wants to do it right?~"
     
     "What the f..."
     
     d "It's okay you're a mature boy after all. Huehuehue."
     
-    "Why is the laugh so lame?"
+    "Why is that laugh so lame?"
     
-    an "Don't remember, she is your only sister!"
+    an "Don't worry, she is your only sister!"
     
     "You mean... st-"
     
@@ -310,11 +310,11 @@ label route9:
     "Hmm..."
     
     menu:
-        "Listen to devil of lust.":
+        "Listen to the devil of lust.":
         
             jump bad1
         
-        "Listen to angel of anime (Not sure what the hell does that mean whatever it is)":
+        "Listen to  the angel of anime (Whatever the hell that is)":
         
             jump route11
    
@@ -325,9 +325,9 @@ label route11:
    
     r "Oh."
     
-    r "Okay... *Dejected*"
+    r "Okay... *Rejected*"
     
-    o "Oh, you came late today. Down to 150."
+    o "Oh, you came late today. Get down and give me a 150."
     
     mc "NANI!?"
     
@@ -337,15 +337,15 @@ label route11:
     
     s "According to keikaku. Fufufu~ *Innocent loli aura released*"
     
-    "After quite while..."
+    "After quite a while..."
     
-    mc "149...... 15-.... 150.... *fall to ground."
+    mc "149...... 15-.... 150.... *falls to the ground.*"
     
-    s "Jii-chan![mc] not moving!"
+    s "Jii-chan![mc] isn't moving!"
     
-    o "He will be fine! Maybe..."
+    o "He'll be fine! Probably..."
     
-    s "Uuuu~~ *Started tearing up*"
+    s "Uuuu~~ *Starts to tear up*"
     
     o "*Extreme critical hit received*[s],Grandpa. I’m so sorry! *hug [s]*"
     
@@ -354,10 +354,10 @@ label route11:
     o "*Hugs his own legs at some corner* Sorry."
     
     "After..." 
-    "(Visualist: JUST STOP SKIP DAMMIT!) (K!) (THE FISH)"
-    "(After a long time, the author become retard and do dab all the anime he watched all the time. The end)"
+    "(Visualist: JUST STOP SKIPPING DAMMIT!) (K!) (THE FISH)"
+    "(After a long time, the author became a retard and proceeded to dab while watching anime all day. The end)"
     
-    "After a long time Im passed out."
+    "After a while I passed out."
     
     mc "Hmm... What happened?"
     
@@ -379,15 +379,15 @@ label route11:
     
     mc "Of course. I will be fine with the uniform."
     
-    "I tied out the shirt with a smirk."
+    "I buttoned down the shirt with a smirk."
     
     "Old man Kukichi watched us with anticipation."
     
-    "I moved to middle grounds facing Rina."
+    "I moved to the middle ground to come face to face with Rina."
     
     mc "Rina-nee, you move first."
     
-    r "Well, don't regret it!"
+    r "Well, you'll regret that!"
     
     "*Fush*"
     
@@ -395,13 +395,13 @@ label route11:
     
     "A right fast jab appeared."
     
-    "I moved my head to side avoid the jab."
+    "I moved my head to the side to avoid the jab."
         
-    "Rina swang left hand aiming [mc]'s stomach"
+    "Rina swung her left fist aiming at [mc]'s stomach"
     
-    "I moved my hand stop her swing and uppercut with my other hand targeting Rina-nee."
+    "I moved my hand to stop her swing and proceeded with a uppercut with my other hand"
     
-    "Rina jumped back while her right hand block the uppercut."
+    "Rina jumped back while her right hand blocked the uppercut."
     
     r "You're still like a demon as usual."
     
@@ -411,25 +411,25 @@ label route11:
      
     "I jumped in the air but Rina swang her hand straight to my face."
      
-    "I moved my head few breaths earlier than her before I landed on the ground."
+    "I moved my head a few breaths earlier than her, then I landed on the ground."
      
-    "I instinctively hold her karate's uniform and throw her in air with a perfect fluid movement."
+    "I instinctively grabbed her karate uniform and threw her in air with a perfect fluid movement."
      
     "Rina flew in air before landing with a thud."
      
     r "*rubs head* Ouch! That hurts!"
      
-    mc "A moment hesistation equal a moment live fly away."
+    mc "A moment of hesistation is the same as giving your life up."
      
     o "Hahahaha! As expected of [mc]! I have great expectations for your future in martial arts."
      
-    mc "Of course!. *ready both hands on side and breath in and exhale lightly*"
+    mc "Of course! *ready both hands on side and breaths in and exhales lightly*"
     
     a "Splendid as always,[mc]!"
      
     s "Yeah!"
      
-    a "Seeing Rina couldn't contend with you meaning she is not as perfect as she seems to be."
+    a "Seeing Rina couldn't contend with you shows she is not as perfect as she seems to be."
      
     r "Rude!"
      
@@ -457,7 +457,7 @@ label route11:
      
     mc "Ah..."
      
-    "I replied and went to bath after that."
+    "I replied and took a bath after that."
     
     "I replied to Ellyn, my internet bestfriend."
      
@@ -472,8 +472,6 @@ label route11:
     "It was a busy day..."
     
     "..."
-    
-    "Thanks for playing. This novel is still beta."
     
     stop music fadeout 3.0
     return

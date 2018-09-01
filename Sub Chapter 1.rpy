@@ -11,7 +11,7 @@ label sub1:
 
     "(Director: NANI KORE??*Angry*)(Author: Don't hold me back director! let me erase THIS RETARD and his sister!!!)"
     
-    "Did someone talking about us?"
+    "Is someone talking about us?"
 
     jump route1
 
@@ -36,7 +36,7 @@ label sub3:
 label sub4:
     r "*Blushes*"
     
-    m "[mc], stop flirting your sister."
+    m "[mc], stop flirting with your sister."
     
     mc "Sorry, mom."
     
@@ -52,13 +52,11 @@ label sub4:
     
     "Anime, MMO, DOTA, LOL, MONSTER HUNTER!"
     
-    "I will surely need that black coffee."
-    
     #scene
     
-    "As I went out to see a petite body with white hair and cute face staring at me."
+    "As I went out I saw a petite body with white hair and a cute face staring at me."
     
-    "She waved her small cute hand at me with innocent smile."
+    "She waved her small and fragile hand at me with a innocent smile to follow."
     
     mc "Shiro-chan! Bonjour.(Suddenly speak French)"
     
@@ -75,25 +73,25 @@ label sub4:
             
             jump sub5
             
-        "I'll beat Bill Gates!": #choice 8
+        "I want to beat Bill Gates!": #choice 8
         
             jump sub8
             
-        "I like to Anime rush.": #choice 9
+        "I have anime to watch.": #choice 9
     
             jump sub7
 
 label sub5:
     s "Eh~"
     
-    s "[mc], you really did it?"
+    s "[mc], you really want to?"
     
     r "I can't overtake [mc] in that part."
     
     jump sub8
     
 label sub6:
-    s "Eh~, [mc] you really did it?"
+    s "Eh~, [mc] you really want to?"
     
     mc "Not yet, but I will!"
     
@@ -101,14 +99,14 @@ label sub6:
     
     mc "By creating a new concept, theory and invention!"
     
-    s "Is he kidding, Rina-neesan."
+    s "Is he kidding, Rina-neesan?"
     
     r "It’s kinda hard but I know [mc] can do it if he wants to!"
     
     jump sub8
     
 label sub7:
-    s "Eh~, [mc] you really did it?"
+    s "Eh~, [mc] you really want to?"
     
     mc "Hmph! Of course!"
     
@@ -143,7 +141,7 @@ label sub9:
    jump sub12
     
 label sub10:
-    mc "I believe Shiro-chan is an exemplary student. Maybe you forgot something?"
+    mc "I believe Shiro-chan is an exemplary student. Maybe I am forgetting something?"
     
     jump sub13
     
@@ -155,7 +153,7 @@ label sub11:
 label sub12:
     "Rina-nee, Shiro and me went to school."
     
-    "We parted away after a long happy chat with each other on school."
+    "We parted ways after a long happy chat with each other."
     
     jump route8
 
@@ -164,11 +162,11 @@ label sub13:
     
     mc "It's fine."
     
-    "Shiro ran in hurry."
+    "Shiro ran in a hurry."
      
     r "Well, let's go,[mc]."
      
-    "After that, we parted away."
+    "After that, we parted ways."
      
     jump route8
      
@@ -180,17 +178,17 @@ label bad1:
     
     "BAM!"
     
-    "*Fly few feet in air before hit the wooden tiles with a thud*"
+    "*Flew a few feet in air before hitting the wooden tiles with a thud*"
     
     r "Are you sure he's fine?"
     
-    a "well, I'm not sure. He's still breathing... *Poke* *Poke*"
+    a "well, I'm not sure, but he's still breathing... *Poke* *Poke*"
     
-    o "Well, this pervert thought he can go die for all I care."
+    o "Well, this pervert can go die for all I care."
 
     "BAD ENDING"
 
-    "Make sure to not think this novel as hentai all the time...[mc]"
+    "Make sure to not think of this novel as hentai all the time...[mc]"
     
     stop music fadeout 3.0
     return
