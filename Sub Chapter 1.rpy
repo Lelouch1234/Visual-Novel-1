@@ -175,6 +175,8 @@ label bad1:
     "Well..."
     
     "A strong throw by an expert"
+
+    stop music fadeout 5.0
     
     "BAM!"
     
@@ -190,5 +192,4 @@ label bad1:
 
     "Make sure to not think of this novel as hentai all the time...[mc]"
     
-    stop music fadeout 3.0
     return
