@@ -651,7 +651,7 @@ label angelofwhateverisit1:
     
     "I closed my phone and went to sleep."
     
-    "It was a busy day..."
+    "*look down* It was a busy day..."
     
     "..."
     
